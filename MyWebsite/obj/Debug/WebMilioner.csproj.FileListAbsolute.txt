@@ -1,0 +1,303 @@
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ApplicationInsights.config
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\roslyn\csc.exe
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\roslyn\System.Collections.Immutable.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\roslyn\System.Reflection.Metadata.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\roslyn\vbc.exe
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\roslyn\VBCSCompiler.exe
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\roslyn\VBCSCompiler.exe.config
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\WebMilioner.dll.config
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\WebMilioner.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\WebMilioner.pdb
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Antlr3.Runtime.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\EntityFramework.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\EntityFramework.SqlServer.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AI.Agent.Intercept.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AI.DependencyCollector.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AI.Web.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AI.WindowsServer.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.ApplicationInsights.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AspNet.Identity.Core.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Cookies.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Facebook.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Google.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.OAuth.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Twitter.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Web.Infrastructure.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Newtonsoft.Json.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Owin.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\System.Web.Helpers.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\System.Web.Mvc.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\System.Web.Optimization.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\System.Web.Razor.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\System.Web.WebPages.Deployment.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\System.Web.WebPages.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\System.Web.WebPages.Razor.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\WebGrease.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AI.DependencyCollector.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AI.Web.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AI.WindowsServer.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.ApplicationInsights.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\System.Web.Helpers.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\System.Web.Mvc.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\System.Web.Optimization.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\System.Web.Razor.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\System.Web.WebPages.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\System.Web.WebPages.Deployment.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\System.Web.WebPages.Razor.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Antlr3.Runtime.pdb
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Newtonsoft.Json.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\EntityFramework.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\EntityFramework.SqlServer.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AspNet.Identity.Core.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Facebook.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Cookies.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.OAuth.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Google.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Twitter.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\System.Web.Helpers.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\System.Web.Mvc.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\System.Web.Optimization.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\System.Web.Razor.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\System.Web.WebPages.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\System.Web.WebPages.Deployment.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\System.Web.WebPages.Razor.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\EntityFramework.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\EntityFramework.SqlServer.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\Microsoft.Owin.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\Microsoft.Owin.Security.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\obj\Debug\WebMilioner.csprojResolveAssemblyReference.cache
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\obj\Debug\WebMilioner.dll
+d:\visual studio 2010\Bi303\WebMilioner\WebMilioner\obj\Debug\WebMilioner.pdb
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ApplicationInsights.config
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\roslyn\csc.exe
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\roslyn\System.Collections.Immutable.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\roslyn\System.Reflection.Metadata.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\roslyn\vbc.exe
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\roslyn\VBCSCompiler.exe
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\roslyn\VBCSCompiler.exe.config
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\WebMilioner.dll.config
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\WebMilioner.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\WebMilioner.pdb
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Antlr3.Runtime.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\EntityFramework.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\EntityFramework.SqlServer.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AI.Agent.Intercept.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AI.DependencyCollector.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AI.Web.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AI.WindowsServer.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.ApplicationInsights.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AspNet.Identity.Core.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Cookies.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Facebook.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Google.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.OAuth.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Twitter.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Web.Infrastructure.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Newtonsoft.Json.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Owin.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\System.Web.Helpers.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\System.Web.Mvc.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\System.Web.Optimization.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\System.Web.Razor.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\System.Web.WebPages.Deployment.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\System.Web.WebPages.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\System.Web.WebPages.Razor.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\WebGrease.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AI.DependencyCollector.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AI.Web.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AI.WindowsServer.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.ApplicationInsights.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\System.Web.Helpers.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\System.Web.Mvc.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\System.Web.Optimization.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\System.Web.Razor.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\System.Web.WebPages.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\System.Web.WebPages.Deployment.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\System.Web.WebPages.Razor.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Antlr3.Runtime.pdb
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Newtonsoft.Json.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\EntityFramework.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\EntityFramework.SqlServer.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AspNet.Identity.Core.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Facebook.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Cookies.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.OAuth.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Google.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.Twitter.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\System.Web.Helpers.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\System.Web.Mvc.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\System.Web.Optimization.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\System.Web.Razor.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\System.Web.WebPages.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\EntityFramework.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\Microsoft.Owin.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\obj\Debug\WebMilioner.csprojResolveAssemblyReference.cache
+D:\visual studio 2010\WebMilioner\WebMilioner\obj\Debug\WebMilioner.dll
+D:\visual studio 2010\WebMilioner\WebMilioner\obj\Debug\WebMilioner.pdb
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ApplicationInsights.config
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\roslyn\csc.exe
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\roslyn\System.Collections.Immutable.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\roslyn\System.Reflection.Metadata.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\roslyn\vbc.exe
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\roslyn\VBCSCompiler.exe
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\roslyn\VBCSCompiler.exe.config
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\WebMilioner.dll.config
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\WebMilioner.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\WebMilioner.pdb
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Antlr3.Runtime.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\EntityFramework.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\EntityFramework.SqlServer.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AI.Agent.Intercept.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AI.DependencyCollector.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AI.Web.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AI.WindowsServer.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.ApplicationInsights.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AspNet.Identity.Core.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Security.Cookies.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Security.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Security.Facebook.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Security.Google.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Security.OAuth.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Security.Twitter.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Web.Infrastructure.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Newtonsoft.Json.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Owin.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\System.Web.Helpers.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\System.Web.Mvc.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\System.Web.Optimization.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\System.Web.Razor.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\System.Web.WebPages.Deployment.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\System.Web.WebPages.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\System.Web.WebPages.Razor.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\WebGrease.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AI.DependencyCollector.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AI.Web.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AI.WindowsServer.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.ApplicationInsights.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\System.Web.Helpers.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\System.Web.Mvc.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\System.Web.Optimization.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\System.Web.Razor.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\System.Web.WebPages.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\System.Web.WebPages.Deployment.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\System.Web.WebPages.Razor.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Antlr3.Runtime.pdb
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Newtonsoft.Json.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\EntityFramework.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\EntityFramework.SqlServer.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AspNet.Identity.Core.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Security.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Security.Facebook.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Security.Cookies.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Security.OAuth.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Security.Google.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Security.Twitter.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\System.Web.Helpers.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\System.Web.Mvc.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\System.Web.Optimization.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\System.Web.Razor.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\System.Web.WebPages.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\EntityFramework.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\Microsoft.Owin.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\obj\Debug\WebMilioner.csprojResolveAssemblyReference.cache
+C:\proekty\+Проекты\MyWebsite\WebMilioner\obj\Debug\WebMilioner.dll
+C:\proekty\+Проекты\MyWebsite\WebMilioner\obj\Debug\WebMilioner.pdb

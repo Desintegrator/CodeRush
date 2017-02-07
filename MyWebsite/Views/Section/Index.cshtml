@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Разделы";
+    ViewBag.MainTitle = "Добавление раздела";
+    ViewBag.MainDefinition = "";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<ul>
+    <li>@Html.ActionLink("Все разделы", "PageShow") </li>
+    <li>@Html.ActionLink("Добавить раздел", "Add") </li>
+</ul>
+

@@ -1,0 +1,17 @@
+﻿@model MyWebsite.Models.QuizModel
+
+@{
+    ViewBag.Title = "Задача";
+    ViewBag.MainTitle = "Решение задачи";
+    ViewBag.MainDefinition = "";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h3>@Model.Question.Text</h3>
+        </div>
+
+    
+</div>

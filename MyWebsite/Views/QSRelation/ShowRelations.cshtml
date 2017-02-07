@@ -1,0 +1,19 @@
+﻿@model IEnumerable<MyWebsite.Models.QuestionSectionTextModel>
+
+@{
+    ViewBag.Title = "Связи";
+    ViewBag.MainTitle = "Список связей";
+    ViewBag.MainDefinition = "";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<ul>
+    @foreach (var qa in Model)
+    {
+        <li>
+            @qa.QuestionText
+            =>
+            @qa.SectionText
+            </li>
+    }
+    </ul>

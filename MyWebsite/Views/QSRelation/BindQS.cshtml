@@ -1,0 +1,37 @@
+﻿@model MyWebsite.Models.QSModel
+
+@{
+    ViewBag.Title = "Связи";
+    ViewBag.MainTitle = "Создание связи";
+    ViewBag.MainDefinition = "";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("BindQS", "QSRelation"))
+{
+    <div class="row">
+        <div class="col-sm-6 col-lg-6">
+            <!--Задачи-->
+            @Html.Label("Задачи")
+            <br/>
+            @Html.ListBoxFor(m => m.QuestIds, Model.Quests)
+        </div>
+        <div class="col-sm-6 col-lg-6">
+            <!--Разделы-->
+            @Html.Label("Разделы")
+            <br />
+            @Html.ListBoxFor(m => m.SectIds, Model.Sects)
+        </div>
+    </div>
+    <hr />
+    <div class="row">
+        <div class="col-sm-5"></div>
+        <div class="col-sm-2">
+            @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+    <input class="btn btn-default" type="submit" value="Связать!" >
+            </div>
+        <div class="col-sm-5"></div>
+    </div>
+}

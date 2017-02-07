@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Связи";
+    ViewBag.MainTitle = "Список связей";
+    ViewBag.MainDefinition = "";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<ul>
+    <li>
+        @Html.ActionLink("Добавить связь", "BindQS", "QSRelation")
+    </li>
+    <li>
+        @Html.ActionLink("Просмотр связи", "ShowRelations", "QSRelation")
+    </li>
+</ul>
